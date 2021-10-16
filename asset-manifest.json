@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Carro-de-compras/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Carro-de-compras/static/js/main.bb4fcdc5.chunk.js",
+    "main.js.map": "/Carro-de-compras/static/js/main.bb4fcdc5.chunk.js.map",
+    "runtime-main.js": "/Carro-de-compras/static/js/runtime-main.80b4a93d.js",
+    "runtime-main.js.map": "/Carro-de-compras/static/js/runtime-main.80b4a93d.js.map",
+    "static/js/2.b202e506.chunk.js": "/Carro-de-compras/static/js/2.b202e506.chunk.js",
+    "static/js/2.b202e506.chunk.js.map": "/Carro-de-compras/static/js/2.b202e506.chunk.js.map",
+    "static/js/3.bf148692.chunk.js": "/Carro-de-compras/static/js/3.bf148692.chunk.js",
+    "static/js/3.bf148692.chunk.js.map": "/Carro-de-compras/static/js/3.bf148692.chunk.js.map",
+    "index.html": "/Carro-de-compras/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Carro-de-compras/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b202e506.chunk.js.LICENSE.txt": "/Carro-de-compras/static/js/2.b202e506.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80b4a93d.js",
+    "static/js/2.b202e506.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bb4fcdc5.chunk.js"
+  ]
+}
